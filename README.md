@@ -7,4 +7,4 @@ Nuttige links:
 - https://www.syntra-ab.be/opleidingen/data-scientist
 - https://leeromgeving.syntra.be
 - https://cursist.syntra-ab.be
-- https://lms.syntra-cloud.be
+- https://lms.syntra-cloud.be/ab/
