@@ -8,3 +8,4 @@ Nuttige links:
 - https://leeromgeving.syntra.be
 - https://cursist.syntra-ab.be
 - https://lms.syntra-cloud.be/ab/
+- https://jakevdp.github.io/PythonDataScienceHandbook/
